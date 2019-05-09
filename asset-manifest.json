@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.956f9703.chunk.js",
+    "main.js.map": "/static/js/main.956f9703.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ee0d59e6.chunk.js": "/static/js/2.ee0d59e6.chunk.js",
+    "static/js/2.ee0d59e6.chunk.js.map": "/static/js/2.ee0d59e6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4fdff365563a63cd1f22cae4bb62a456.js": "/precache-manifest.4fdff365563a63cd1f22cae4bb62a456.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/elec-waste.jpg": "/static/media/elec-waste.529f7321.jpg",
+    "static/media/paper-waste.jpg": "/static/media/paper-waste.13c6c990.jpg",
+    "static/media/plastic-waste.jpg": "/static/media/plastic-waste.964b0be1.jpg",
+    "static/media/rubber-waste.jpg": "/static/media/rubber-waste.914d752e.jpg"
+  }
+}
