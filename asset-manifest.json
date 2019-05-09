@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.2e68afbc.chunk.js",
-    "main.js.map": "/static/js/main.2e68afbc.chunk.js.map",
+    "main.js": "/static/js/main.5689ea20.chunk.js",
+    "main.js.map": "/static/js/main.5689ea20.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.ee0d59e6.chunk.js": "/static/js/2.ee0d59e6.chunk.js",
-    "static/js/2.ee0d59e6.chunk.js.map": "/static/js/2.ee0d59e6.chunk.js.map",
+    "static/js/2.64ee985d.chunk.js": "/static/js/2.64ee985d.chunk.js",
+    "static/js/2.64ee985d.chunk.js.map": "/static/js/2.64ee985d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.15382512c69433f2f2f07e254621904e.js": "/precache-manifest.15382512c69433f2f2f07e254621904e.js",
+    "precache-manifest.a95e15c82d9bc9877b99e049e4ec8169.js": "/precache-manifest.a95e15c82d9bc9877b99e049e4ec8169.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
-    "static/media/elec-waste.jpg": "/static/media/elec-waste.529f7321.jpg",
-    "static/media/paper-waste.jpg": "/static/media/paper-waste.13c6c990.jpg",
-    "static/media/plastic-waste.jpg": "/static/media/plastic-waste.964b0be1.jpg",
-    "static/media/rubber-waste.jpg": "/static/media/rubber-waste.914d752e.jpg"
+    "static/media/audio.jpg": "/static/media/audio.ef572c79.jpg",
+    "static/media/cellphone.jpg": "/static/media/cellphone.2fc0f17d.jpg",
+    "static/media/computer.jpg": "/static/media/computer.192e867b.jpg",
+    "static/media/monitor.jpg": "/static/media/monitor.276c0b95.jpg",
+    "static/media/printer.jpg": "/static/media/printer.9c9462b8.jpg",
+    "static/media/smalldevice.jpeg": "/static/media/smalldevice.b7394ed1.jpeg"
   }
 }
